@@ -164,6 +164,7 @@ public class Stage10 extends JFrame{
 	
 	public Stage10(){
 		prepareGUI();
+		System.out.println("changed for github test");
 	}
 	
 	public static void setPlayerMoved(boolean input){
